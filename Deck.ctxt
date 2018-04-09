@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Deck
+comment0.text=\r\n\ Creates\ and\ shuffles\ a\ deck\ of\ 52\ playing\ cards.\r\n
+comment1.params=
+comment1.target=Deck()
+comment2.params=
+comment2.target=void\ shuffle()
+comment2.text=\r\n\ Shuffles\ the\ deck\ by\ changing\ the\ indexes\ of\ 200\ random\ pairs\ of\ cards\ in\ the\ deck.\r\n
+comment3.params=
+comment3.target=Card\ drawCard()
+comment3.text=\r\n\ Draws\ a\ card\ from\ the\ deck.\r\n
+numComments=4

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Class\ card\ establishes\ all\ of\ the\ properties\ that\ a\ card\ can\ have\ its\ suit\ value\ and\ rank.\r\n\r\n\ @author\ (Milan)\r\n\ @version\ (3/23/18)\r\n
+comment1.params=suit\ values
+comment1.target=Card(int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Returns\ the\ string\ version\ of\ a\ chosen\ random\ card\ in\ the\ deck.\r\n
+comment3.params=
+comment3.target=int\ getRank()
+comment3.text=\r\n\ Returns\ the\ rank\ of\ a\ chosen\ random\ card\ in\ the\ deck.\r\n
+comment4.params=
+comment4.target=int\ getSuit()
+comment4.text=\r\n\ Returns\ the\ suit\ of\ a\ chosen\ random\ card\ in\ the\ deck.\r\n
+comment5.params=
+comment5.target=int\ rankKing()
+comment6.params=
+comment6.target=int\ rankQueen()
+comment7.params=
+comment7.target=int\ rankJack()
+comment8.params=
+comment8.target=int\ getValue()
+comment8.text=\r\n\ Returns\ the\ value\ of\ a\ chosen\ random\ card\ in\ the\ deck.\ If\ a\ jack,\ queen,\ or\ king\ the\ value\ is\ ten.\ Aces\ are\ 11\ for\ now.(Aces\ can\ be\ one\ or\ eleven)\r\n
+comment9.params=set
+comment9.target=void\ setValue(int)
+comment9.text=\r\n\ Sets\ the\ value\ of\ a\ chosen\ random\ card\ in\ the\ deck.\r\n
+numComments=10
